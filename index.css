@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(53, 54, 56);
+    color: rgb(231, 238, 242);
+  }
+  
+  img {
+    width: 60%;
+    min-width: 30rem;
+  }
